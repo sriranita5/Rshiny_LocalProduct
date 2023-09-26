@@ -1,0 +1,181 @@
+brand,subscriber,reviewer,RATING,category
+alchemist fragrance,11.5,2.2,4.9,body_care
+balans,24.9,12,5.0,body_care
+bonavie,56.6,16.6,4.9,body_care
+brighty,222,109.4,4.9,body_care
+ciara,24,8,4.9,body_care
+creme and tonic,4.7,3.4,5,body_care
+deorex,3.9,13.3,4.9,body_care
+dew it,12,1.6,4.9,body_care
+dr soap,33,18.2,5,body_care
+esscentials indonesia,1.9,0.884,5,body_care
+gloei,5.6,1.1,4.9,body_care
+herborist,518.9,912.4,4.9,body_care
+looloo,28.3,18.9,4.9,body_care
+milk recipe,9.9,7.6,4.8,body_care
+mirael,166.3,137.6,4.9,body_care
+mustika ratu,269.8,190.2,4.9,body_care
+rei skin,27.8,6.8,5,body_care
+roceo,89.9,26.7,4.9,body_care
+shapelyne,3.1,1.8,4.9,body_care
+skin soul,33.4,10.5,4.9,body_care
+sterobac,0.402,46,4.8,body_care
+sugarpot,55.3,65.9,4.9,body_care
+sundae shower,25.7,7.5,4.9,body_care
+the bath box,155,144.5,4.9,body_care
+varesse,39.9,11,4.9,body_care
+youvit,98.1,52.9,4.9,body_care
+aniverable,89.7,17.5,4.9,fragrance
+botanical essentials,11.9,2.7,5,fragrance
+buttonscarves,2.3,0.168,4.9,fragrance
+camani,4.2,1.5,4.9,fragrance
+careso,138.2,77.8,4.9,fragrance
+daze delacour,0.788,94.0,5,fragrance
+fordive,25.4,8.7,4.9,fragrance
+hmns,203,116.7,4.9,fragrance
+le havre,46.1,18.9,5,fragrance
+lilith and eve,68.3,23.7,4.9,fragrance
+onix,98.7,78.6,4.9,fragrance
+saff & co,164.2,35.9,4.9,fragrance
+scent & light,0.252,0.010,5,fragrance
+utama spice,9,11.9,4.9,fragrance
+argavell,10.8,19.2,4.9,hair_care
+blishful,64.3,55.4,4.9,hair_care
+cbd professional,93.6,47.3,4.9,hair_care
+ellips,24.7,6.5,4.9,hair_care
+eucalie,12.2,4.7,4.9,hair_care
+hairen,12.6,13,4.9,hair_care
+makarizo,423.7,1.1,4.9,hair_care
+ree derma wellness,26.2,32.2,4.9,hair_care
+sensatia botanicals,147.9,124.4,4.9,hair_care
+tumbuh lab,9.8,11.4,4.9,hair_care
+allglows,47.1,14,4.9,make_up
+artisan professionnel,65.9,70.6,5,make_up
+avione,48.4,19.4,4.9,make_up
+barenbliss,774.6,218.4,4.9,make_up
+beauty theory,1.8,323,4.9,make_up
+blink charm,8.6,5.5,4.9,make_up
+blp beauty,349.9,183.4,4.9,make_up
+cleya beauty,13.3,6.6,4.9,make_up
+dear me beauty,713.2,368.4,4.9,make_up
+esqa,543.3,345.1,4.9,make_up
+evalash,2.6,1.5,4.8,make_up
+fanbo,132.5,64.4,4.9,make_up
+goban,69.3,26,4.9,make_up
+guele cosmetics,19.7,16.5,4.9,make_up
+i am addicted,12,3.5,4.9,make_up
+implora,526.5,366.6,4.9,make_up
+jacquelle,448.7,90.3,4.9,make_up
+kaila,53.6,19.7,4.9,make_up
+lavie lash,27.4,11.2,4.9,make_up
+liplapin,77.4,52.6,4.9,make_up
+looke cosmetics,15.5,377,5,make_up
+loreca,23.5,7.4,4.9,make_up
+mad for makeup,153.5,60.6,4.9,make_up
+madam gie,5.9,6.9,4.8,make_up
+make over,2.8,1.2,4.9,make_up
+mother of pearl,63.3,12.2,4.9,make_up
+mutual beauté,4.8,344,4.9,make_up
+nama beauty,37.1,11.1,4.9,make_up
+pixy,58.9,367.2,4.9,make_up
+rabbit habit,17.5,2.4,4.9,make_up
+reka cosmetics,28,16.9,4.9,make_up
+rollover reaction,145.8,48.4,4.9,make_up
+rose all day,101.4,75.5,4.9,make_up
+rubiena,0.890,436,4.8,make_up
+runa beauty,40.1,12.1,4.9,make_up
+sada by cathy sharon,43.6,14.7,4.9,make_up
+saint by sandra,45.1,20.2,4.9,make_up
+sasc,80.7,26.1,4.9,make_up
+secondate,122.7,75.2,4.9,make_up
+tammia,102.4,91.2,4.9,make_up
+tish,12.6,5.2,4.9,make_up
+trope cosmetics,48.9,8.3,4.9,make_up
+tutorrial,8,2.2,4.9,make_up
+upmost beaute,24.5,9.7,4.9,make_up
+wardah,4.4,4.4,4.9,make_up
+wckd,15.2,3.8,4.9,make_up
+allura,2.6,0.590,4.9,skin_care
+avoskin,1.000,602.9,4.9,skin_care
+azarine,1.400,1.000,4.9,skin_care
+bae+,0.265,0.036,4.9,skin_care
+base,14.5,2.9,4.9,skin_care
+beauty boss,7,4.1,4.9,skin_care
+bhumi,74.8,26.5,4.9,skin_care
+bio beauty lab,245.8,137.1,5,skin_care
+biyu,31.4,19.8,4.9,skin_care
+bloomka,52.2,37.7,4.9,skin_care
+cleora,200.5,181.2,4.9,skin_care
+dermaexpress,43,49.5,4.9,skin_care
+elsheskin,643,357.8,4.9,skin_care
+emina,2.800,2.1,4.9,skin_care
+erha,600.4,577,4.9,skin_care
+everpure,43.300,28.4,4.9,skin_care
+everwhite,498.9,407.5,4.9,skin_care
+facetology,5.6,5.2,4.9,skin_care
+feat for skin,0.651,0.396,5,skin_care
+for skins sake,29.5,14.9,4.9,skin_care
+gentle hour,4.5,0.9,4.9,skin_care
+glow better,9.5,1.7,4.9,skin_care
+glow factor,24.2,1.8,4.9,skin_care
+gorjes,2.4,0.908,4.9,skin_care
+grace and glow,397.4,212.3,4.9,skin_care
+hale,46.5,18.3,4.9,skin_care
+haple,92.9,86.4,4.9,skin_care
+harlette,84.4,39.4,4.9,skin_care
+i trust nature,29.1,4.6,4.9,skin_care
+indoganic,53.6,14.3,4.9,skin_care
+innertrue,38.2,15.9,4.9,skin_care
+jarkeen,23.6,25.2,4.9,skin_care
+jarte beauty,105.9,36.3,4.9,skin_care
+jiera,235.4,74.8,4.8,skin_care
+joylab,154.8,52.5,4.9,skin_care
+kahf,319.1,251.5,4.9,skin_care
+kasmaran,1.5,423,5,skin_care
+kleveru,129,107.6,4.9,skin_care
+kojiesan,91,85.2,4.9,skin_care
+lacoco,66.6,2.4,4.9,skin_care
+maska,17.2,5.4,4.9,skin_care
+mineral botanica,281.1,160.5,4.8,skin_care
+moriganic,86.8,53,4.9,skin_care
+morr,0.523,0.334,5,skin_care
+my skin hero,1.6,775,5,skin_care
+natosh indonesia,12.7,9.8,4.9,skin_care
+noera,1.2,458.5,4.9,skin_care
+noolab,9.6,4.1,4.9,skin_care
+npure,778.7,393.9,4.9,skin_care
+nusantics,1.6,639,4.9,skin_care
+nutrishe,89.7,69.5,4.9,skin_care
+oasea laboratories,13.1,1.7,5,skin_care
+omniskin,27.5,17.5,4.9,skin_care
+oullu,13.2,2.8,4.9,skin_care
+philocaly skin,19,9.2,4.9,skin_care
+raiku,17.7,24.9,4.9,skin_care
+reset the skin,4.8,2.4,4.9,skin_care
+rivya,12.8,1.9,4.9,skin_care
+saturday looks,99.1,68.8,4.9,skin_care
+scarlett whitening,3.9,2.9,4.9,skin_care
+seca skin,22.3,7.0,4.9,skin_care
+skin dewi,28.8,12.7,5,skin_care
+skin game,73.6,78.4,4.9,skin_care
+skin theory,96.8,18.0,4.9,skin_care
+skinmee,18.8,3.2,4.9,skin_care
+skintific,1.8,759.6,4.9,skin_care
+sociolla,370.3,227.8,4.9,skin_care
+somethinc,2.4,1.8,4.9,skin_care
+studio tropik,247.6,163.5,4.9,skin_care
+syca,43.3,22.4,4.9,skin_care
+teddy clubs,44.8,22.4,4.9,skin_care
+terra beaute,12.4,17.1,4.9,skin_care
+the aubree,23.1,35.4,5,skin_care
+the originote,249.1,159,4.9,skin_care
+true to skin,120.4,43.9,4.9,skin_care
+trueve,423.6,235.9,4.9,skin_care
+tulus,3.9,6.3,5,skin_care
+votre peau,56.9,22.6,4.9,skin_care
+westcare,3.5,3.0,4.9,skin_care
+white story,242.2,238.4,4.9,skin_care
+whitelab,1.000,1.400,4.9,skin_care
+you beauty,3.200,1.500,4.9,skin_care
+zamron,111.3,136.9,4.9,skin_care
+zlota,15.5,10.4,4.9,skin_care
